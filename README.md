@@ -2,10 +2,10 @@
 
 This Repository contains reactjs concepts like -
 
-1)useMemo Hook
+1) useMemo Hook
 
-2)Prop Drilling followed by Context Api
+2) Prop Drilling followed by Context Api
 
-3)Lifting State up
+3) Lifting State up
 
-4)Controlled and Uncontrolled Components
+4) Controlled and Uncontrolled Components
